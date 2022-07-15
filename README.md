@@ -1,3 +1,3 @@
 # GIT TEST
 
-Testing some git command
+Testing some git commands
