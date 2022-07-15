@@ -21,14 +21,8 @@ RUN npm install
 
 COPY . .
 
-# update 
 
-RUN apt-get update
-
-# install vim
-
-RUN apt-get install vim
-
+# set port
 
 EXPOSE 8080
 
